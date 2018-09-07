@@ -1,11 +1,14 @@
 // PracticeGit.cpp : Defines the entry point for the console application.
 //
 
-#include "stdafx.h"
-
+#include <iostream>
+using namespace std;
 
 int main()
 {
+	cout << "Pravvtive Git" << endl;
+	system("pause");
+
     return 0;
 }
 
